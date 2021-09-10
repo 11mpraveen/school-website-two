@@ -1,0 +1,8 @@
+video1{
+    height: 100;
+    width: 100;
+}
+.avengers_endgame{
+     display: block; /* Make the links appear below each other instead of side-by-side */
+  text-align: center; /* Center-align text */
+}
